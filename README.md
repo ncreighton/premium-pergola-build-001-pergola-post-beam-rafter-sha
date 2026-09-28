@@ -1,0 +1,2 @@
+# premium-pergola-build-001-pergola-post-beam-rafter-sha
+You've got the pergola vision but no clear blueprint for organizing post dimensions, beam angles, and rafter spacing—leading to costly material waste and structural miscalculations. The Pergola Post Beam &amp; Rafter Shade Craft Hub solves this by centralizing every measurement, material requirement, and design decision in one intuitive Notion workspac
